@@ -12,7 +12,7 @@
 
 
 
-PROCESS #This is where the script executes 
+PROCESS
 { 
 
 $starttime = Get-Date -Format HH:mm:ss
